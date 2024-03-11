@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.corefortech.jorni",
+      "sha256_cert_fingerprints": [
+        "F8:64:72:91:B2:04:E5:28:E5:23:3E:BD:C9:AF:BE:5D:67:B0:2C:10:B9:2B:8C:C8:01:20:01:4D:5A:A6:55:2B",
+        "EB:5E:47:3C:6A:E2:75:85:62:2D:0A:8E:D8:FF:1A:E0:AF:CD:E7:C6:CD:A4:78:59:EE:A6:E3:4F:26:5F:66:DC"
+      ]
+    }
+  }
+]
